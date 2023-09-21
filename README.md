@@ -22,6 +22,6 @@
 
 ## Ссылки на проект
 
-IP 130.193.52.73
+IP 84.201.163.181
 
-Backend https://levkin.mesto.backend.nomoredomainsicu.ru
+Backend https://api.movies.dante.nomoredomainsrocks.ru
